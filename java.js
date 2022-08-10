@@ -61,4 +61,4 @@ function game(){
     }
 }
 
-console.log ('2', game())
+console.log (game())
